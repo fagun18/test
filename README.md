@@ -2,71 +2,92 @@
 
 ## 👨‍💻 About Me
 
-💡 **Tech Enthusiast & Software Engineer** passionate about building scalable, secure, and high-performance applications. 
-🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects.  
-🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit.  
-🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects.  
+I am a seasoned **Full Stack Developer** with over **10+ years of experience** in building scalable, secure, and high-performance applications. My expertise spans across **UI/UX design**, **web and mobile development**, **cloud solutions**, and **AI/ML integrations**. I thrive on solving complex problems and delivering **client-centric solutions** that drive business growth.
 
 ---
 
 ## ❓ Why Work With Me?
 
-✅ **10+ Years of Extensive Experience**  
-✅ **Scalable, Secure, and PSR Standard Code**  
-✅ **Client-Centric Approach**  
-✅ **End-to-End Development**: From architecture design to deployment  
-✅ **Daily & Weekly Reports**  
-✅ **Long-Term Support** even after project completion  
-✅ **Complete Transparency** at every stage  
+- 🥇 **10+ Years of Extensive Experience**: Proven track record in delivering high-quality projects.
+- 🏆 **Expertise You Can Trust**: Deep knowledge of modern technologies and frameworks.
+- ✅ **Scalable, Secure PSR Standard Code**: Robust and maintainable codebases.
+- ✅ **Client-Centric Approach**: Tailored solutions to meet your business needs.
+- ✅ **End-to-End Development**: From architecture design to final deployment.
+- ✅ **Daily & Weekly Reports**: Transparent communication and progress tracking.
+- ✅ **Long-Term Support**: Continuous support even after project completion.
+- ✅ **Transparency**: Clear and honest collaboration at every stage.
 
 ---
 
 ## 🎯 Services
 
-🔹 **Full Stack Development** | UI, Web, Mobile App & Cloud Solutions  
-🔹 **Mobile Application Development** | Android & iOS  
-🔹 **Custom & Enterprise Software Development**  
-🔹 **MVP, SAAS, End-to-End Design & Development**  
-🔹 **Enhancement & Customization** of existing projects  
-🔹 **AI/ML Software Development & Integration**  
-🔹 **OpenAI API & DeepSeek API Implementation**  
+- **Full Stack Development**: UI, Web, Mobile App & Cloud Solutions.
+- **Mobile Application Development**: Android & iOS.
+- **Custom & Enterprise Software Development**: Tailored solutions for your business.
+- **MVP, SAAS, End-to-End Design & Development**: From concept to deployment.
+- **Improvement and Customisation of Existing Projects**: Enhance and optimize your current systems.
+- **AI/ML Software Development & Integration**: Leverage AI to solve complex problems.
+- **OpenAI API & DeepSeek API Implementation**: Integrate cutting-edge AI technologies.
 
 ---
 
-## 🛠️ Technologies & Frameworks
+## 🛠️ TECHNOLOGIES & FRAMEWORKS
 
-### **Frontend Development**
+### **Stacks**
+![MERN Stack](https://img.shields.io/badge/MERN-00ADD8?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django Stack](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter Stack](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET Stack](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### **Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Mobile Development**
+### **Mobile App**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **AI/ML & APIs**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### **AI/ML**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **APIs**
+![Restful API](https://img.shields.io/badge/Restful-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek API](https://img.shields.io/badge/DeepSeek_API-000000?style=for-the-badge&logo=deepseek&logoColor=white)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **DevOps & Cloud**
+### **DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Tools/Automation**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Other**
+![Pixel-Perfect Design](https://img.shields.io/badge/Pixel_Perfect-FF6C37?style=for-the-badge&logo=adobe&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-00ADD8?style=for-the-badge&logo=code&logoColor=white)
+![Optimizing Performance](https://img.shields.io/badge/Optimizing_Performance-00C853?style=for-the-badge&logo=speedtest&logoColor=white)
+![Hardened Security](https://img.shields.io/badge/Hardened_Security-FF6C37?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
