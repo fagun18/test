@@ -1,5 +1,11 @@
 # 🚀 Welcome to My GitHub Profile!
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+a+Full+Stack+Developer;10%2B+Years+of+Experience;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I am a seasoned **Full Stack Developer** with over **10+ years of experience** in building scalable, secure, and high-performance applications. My expertise spans across **UI/UX design**, **web and mobile development**, **cloud solutions**, and **AI/ML integrations**. I thrive on solving complex problems and delivering **client-centric solutions** that drive business growth.
@@ -7,6 +13,10 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 ---
 
 ## ❓ Why Work With Me?
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Scalable+%7C+Secure+%7C+Client-Centric+%7C+Transparent" alt="Typing SVG" />
+</div>
 
 - **10+ Years of Extensive Experience**: Proven track record in delivering high-quality projects.
 - **Expertise You Can Trust**: Deep knowledge of modern technologies and frameworks.
@@ -21,6 +31,10 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 
 ## 🎯 Services
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+%7C+Mobile+Apps+%7C+AI%2FML+%7C+Cloud+Solutions" alt="Typing SVG" />
+</div>
+
 - **Full Stack Development**: UI, Web, Mobile App & Cloud Solutions.
 - **Mobile Application Development**: Android & iOS.
 - **Custom & Enterprise Software Development**: Tailored solutions for your business.
@@ -32,6 +46,10 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 ---
 
 ## 🛠️ TECHNOLOGIES & FRAMEWORKS
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+AI%2FML+%7C+DevOps" alt="Typing SVG" />
+</div>
 
 ### **Stacks**
 ![MERN Stack](https://img.shields.io/badge/MERN-00ADD8?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,13 +111,15 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hudacse6&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hudacse6&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 🌐 Let's Connect! ✨
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/hudacse6">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -112,11 +132,11 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
   <a href="https://github.com/hudacse6">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Let's+Connect%2C+Collaborate%2C+%26+Innovate!;Reach+out+to+me+for+your+next+project!;Open+to+new+opportunities+%26+challenges!" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
