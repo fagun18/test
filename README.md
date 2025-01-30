@@ -2,6 +2,7 @@
 
 ## 👨‍💻 About Me
 
+💡 **Tech Enthusiast & Software Engineer** passionate about building scalable, secure, and high-performance applications. 
 🤝 **Collaboration Interests**: Seeking Full Stack Development opportunities to collaborate on high-scale, complex, and long-term projects.  
 🌐 **Professional Network**: If you're searching for an exceptional team or individual, I can help you find the right fit.  
 🚀 **Exploration**: Actively exploring advancements in Machine Learning (ML), Artificial Intelligence (AI), and OpenAI API & ChatGPT related projects.  
@@ -10,26 +11,25 @@
 
 ## ❓ Why Work With Me?
 
-🥇 **10+ Years of Extensive Experience**  
-🏆 **Expertise You Can Trust**  
-✅ **Scalable, Secure PSR Standard Code**  
+✅ **10+ Years of Extensive Experience**  
+✅ **Scalable, Secure, and PSR Standard Code**  
 ✅ **Client-Centric Approach**  
-✅ **End-to-end Development** from architecture design to final deployment  
+✅ **End-to-End Development**: From architecture design to deployment  
 ✅ **Daily & Weekly Reports**  
-✅ **Long-term Support** even after the project is completed  
-✅ **Transparency** in every step  
+✅ **Long-Term Support** even after project completion  
+✅ **Complete Transparency** at every stage  
 
 ---
 
 ## 🎯 Services
 
-✓ **Full Stack Development** | UI, Web, Mobile App & Cloud Solutions  
-✓ **Mobile Application Development** | Android & iOS  
-✓ **Custom & Enterprise Software Development**  
-✓ **MVP, SAAS, End-to-End Design & Development**  
-✓ **Improvement and Customisation** of existing projects  
-✓ **AI/ML Software Development & Integration**  
-✓ **OpenAI API & DeepSeek API Implementation**  
+🔹 **Full Stack Development** | UI, Web, Mobile App & Cloud Solutions  
+🔹 **Mobile Application Development** | Android & iOS  
+🔹 **Custom & Enterprise Software Development**  
+🔹 **MVP, SAAS, End-to-End Design & Development**  
+🔹 **Enhancement & Customization** of existing projects  
+🔹 **AI/ML Software Development & Integration**  
+🔹 **OpenAI API & DeepSeek API Implementation**  
 
 ---
 
@@ -72,7 +72,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fagun18&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hudacse6&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
