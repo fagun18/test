@@ -8,6 +8,10 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Seasoned+Developer+%7C+Problem+Solver+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+</div>
+
 I am a seasoned **Full Stack Developer** with over **10+ years of experience** in building scalable, secure, and high-performance applications. My expertise spans across **UI/UX design**, **web and mobile development**, **cloud solutions**, and **AI/ML integrations**. I thrive on solving complex problems and delivering **client-centric solutions** that drive business growth.
 
 ---
@@ -15,7 +19,7 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 ## ❓ Why Work With Me?
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Scalable+%7C+Secure+%7C+Client-Centric+%7C+Transparent" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Scalable+%7C+Secure+%7C+Client-Centric+%7C+Transparent" alt="Typing SVG" />
 </div>
 
 - **10+ Years of Extensive Experience**: Proven track record in delivering high-quality projects.
@@ -32,7 +36,7 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 ## 🎯 Services
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+%7C+Mobile+Apps+%7C+AI%2FML+%7C+Cloud+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+%7C+Mobile+Apps+%7C+AI%2FML+%7C+Cloud+Solutions" alt="Typing SVG" />
 </div>
 
 - **Full Stack Development**: UI, Web, Mobile App & Cloud Solutions.
@@ -48,7 +52,7 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 ## 🛠️ TECHNOLOGIES & FRAMEWORKS
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+AI%2FML+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+AI%2FML+%7C+DevOps" alt="Typing SVG" />
 </div>
 
 ### **Stacks**
