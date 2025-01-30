@@ -8,18 +8,11 @@
 
 ## 👨‍💻 About Me
 
-<div align="center" style="overflow: hidden; white-space: nowrap;">
-  <p style="display: inline-block; padding-left: 100%; animation: slide 10s linear infinite;">
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="font-size: 20px; color: #00FF00;">
     Seasoned Developer | Problem Solver | AI/ML Enthusiast
-  </p>
+  </marquee>
 </div>
-
-<style>
-  @keyframes slide {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
 
 I am a seasoned **Full Stack Developer** with over **10+ years of experience** in building scalable, secure, and high-performance applications. My expertise spans across **UI/UX design**, **web and mobile development**, **cloud solutions**, and **AI/ML integrations**. I thrive on solving complex problems and delivering **client-centric solutions** that drive business growth.
 
