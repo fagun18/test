@@ -8,14 +8,14 @@ I am a seasoned **Full Stack Developer** with over **10+ years of experience** i
 
 ## ❓ Why Work With Me?
 
-- 🥇 **10+ Years of Extensive Experience**: Proven track record in delivering high-quality projects.
-- 🏆 **Expertise You Can Trust**: Deep knowledge of modern technologies and frameworks.
-- ✅ **Scalable, Secure PSR Standard Code**: Robust and maintainable codebases.
-- ✅ **Client-Centric Approach**: Tailored solutions to meet your business needs.
-- ✅ **End-to-End Development**: From architecture design to final deployment.
-- ✅ **Daily & Weekly Reports**: Transparent communication and progress tracking.
-- ✅ **Long-Term Support**: Continuous support even after project completion.
-- ✅ **Transparency**: Clear and honest collaboration at every stage.
+- **10+ Years of Extensive Experience**: Proven track record in delivering high-quality projects.
+- **Expertise You Can Trust**: Deep knowledge of modern technologies and frameworks.
+- **Scalable, Secure PSR Standard Code**: Robust and maintainable codebases.
+- **Client-Centric Approach**: Tailored solutions to meet your business needs.
+- **End-to-End Development**: From architecture design to final deployment.
+- **Daily & Weekly Reports**: Transparent communication and progress tracking.
+- **Long-Term Support**: Continuous support even after project completion.
+- **Transparency**: Clear and honest collaboration at every stage.
 
 ---
 
